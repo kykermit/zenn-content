@@ -1,1 +1,3 @@
-# zenn-docs
+# Zenn contents
+
+https://zenn.dev/kykermit

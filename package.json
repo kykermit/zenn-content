@@ -1,0 +1,17 @@
+{
+  "name": "zenn-content",
+  "description": "https://zenn.dev/kykermit",
+  "author": "kykermit",
+  "license": "MIT",
+  "scripts": {
+    "textlint": "textlint **/*.md"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.93"
+  },
+  "devDependencies": {
+    "textlint": "^12.0.2",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
+  }
+}
